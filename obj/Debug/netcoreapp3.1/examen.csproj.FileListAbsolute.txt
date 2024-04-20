@@ -1,0 +1,13 @@
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.csprojAssemblyReference.cache
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfoInputs.cache
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfo.cs
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.exe
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.deps.json
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.json
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.dev.json
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.dll
+C:\Users\TheDr\Desktop\examen\bin\Debug\netcoreapp3.1\examen.pdb
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.dll
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.pdb
+C:\Users\TheDr\Desktop\examen\obj\Debug\netcoreapp3.1\examen.genruntimeconfig.cache
